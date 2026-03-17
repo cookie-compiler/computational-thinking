@@ -1,0 +1,1 @@
+print("Você passou!" if float(input("Sua média: ")) >= 6 else "Você foi reprovado!")
