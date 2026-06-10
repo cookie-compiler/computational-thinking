@@ -11,8 +11,6 @@ CIANO = "\033[96m"
 NEGRITO = "\033[1m"
 RESET = "\033[0m"
 
-print(str(int((50-len("Ciclos realizados: 10"))/2)))
-
 print(CIANO + NEGRITO + "=" * 50)
 print(" "*8 + "SPACE STRUCTURAL MONITORING SYSTEM")
 print(" "*6 + "OrbitalTech - Monitoramento Estrutural")
@@ -51,11 +49,6 @@ max_deformacao = None
 min_deformacao = None
 max_pressao = None
 min_pressao = None
-
-# Variáveis de alerta
-modulo = None
-valor = None
-un_medida = None
 
 # Alertas
 alertas = ""
