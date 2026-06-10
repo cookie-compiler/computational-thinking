@@ -1,4 +1,4 @@
-# [LINK DO VÍDEO AQUI]
+# https://youtu.be/V3j9TAjUIGY
 # | Beatriz Gonçalves (RM: 572149) | 
 # | Hugo Mariutti (RM: 568941)     |
 
